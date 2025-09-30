@@ -13,9 +13,7 @@ Perfil en GitHub: [https://github.com/AndreaUGR](https://github.com/AndreaUGR)
 ---
 
 ## Descripción
-Este repositorio contiene el material, apuntes, prácticas y proyectos desarrollados en la asignatura *Desarrollo de aplicaciones para telecomunicaciones*. 
-
-El objetivo es mantener un espacio organizado para versionar el trabajo académico, documentar el progreso y disponer de todos los recursos en un mismo lugar.
+Este repositorio reúne el conjunto de prácticas y proyectos elaborados en la asignatura Desarrollo de aplicaciones para telecomunicaciones*.
 
 ---
 
