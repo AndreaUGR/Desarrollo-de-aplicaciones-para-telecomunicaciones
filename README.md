@@ -20,7 +20,7 @@ Este repositorio reúne el conjunto de prácticas y proyectos elaborados en la a
 
 ## Estructura del repositorio
 ```text
-nombre-del-repo
+Desarrollo-de-aplicaciones-para-telecomunicaciones
  ┣ docs/         → Documentación y apuntes de la asignatura
  ┣ src/          → Código fuente de proyectos y prácticas
  ┣ examples/    → Códigos de ejemplo
