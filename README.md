@@ -7,7 +7,7 @@ Curso académico 2025 / 2026
 ---
 
 ## Autor
-Nombre y apellidos: Andrea Bañón
+Andrea Bañón
 
 Perfil en GitHub: [https://github.com/AndreaUGR](https://github.com/AndreaUGR)
 
