@@ -18,12 +18,3 @@ Este repositorio reúne el conjunto de prácticas y proyectos elaborados en la a
 
 ---
 
-## Estructura del repositorio
-```text
-Desarrollo-de-aplicaciones-para-telecomunicaciones
- ┣ docs/         → Documentación y apuntes de la asignatura
- ┣ src/          → Código fuente de proyectos y prácticas
- ┣ examples/    → Códigos de ejemplo
- ┣ test/         → Conjuntos de tests realizados al paquete
- ┣ LICENSE       → Licencia del proyecto
- ┗ README.md     → Información general del repositorio
